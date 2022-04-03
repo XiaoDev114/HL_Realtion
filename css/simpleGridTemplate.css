@@ -1,9 +1,24 @@
 @charset "UTF-8";
 /* Body */
 body {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-family: "原神默认字体 Genshin default fonts" ,"Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 	background-color: #FFFFFF;
 	margin: 0;
+}
+.PF1-1 .PF1-2 div{
+	margin-top: 0
+}
+.P div{
+	margin-bottom: 0
+}
+.P span{
+	font-size: 25px
+}
+.relation{
+	height:300px;
+}
+.RG span{
+	
 }
 .main:hover {
 	text-transform: uppercase;
