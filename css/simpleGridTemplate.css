@@ -25,7 +25,9 @@ body {
 
 }
 
-
+div.relation{
+	display: none;
+}
 .relation{
 	height:300px;
 }
