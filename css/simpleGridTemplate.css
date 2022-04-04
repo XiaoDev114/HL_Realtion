@@ -8,16 +8,82 @@ body {
 .PF1-1 .PF1-2 div{
 	margin-top: 0
 }
+
+.relation div{
+	position: relative;
+}
+.PF1-1 div{
+	position: absolute;
+	left: 25px;
+}
 .P div{
-	margin-bottom: 0
+	margin-bottom: 0;
 }
 .P span{
-	font-size: 25px
+	font-size: 30px;
+	font-weight: bolder;
+
 }
+
 .relation{
 	height:300px;
 }
-.RG span{
+.js,.xfr,.jz,.wfr,.jm2,.lrh{
+	font-size: 25px;
+	transition: all in 5s ease-out;
+}
+a.lrh{
+	transform: uppercase;
+	font-size: 25px;
+	transition: all in 0.5s ease-out;
+}
+.js:hover{
+	font-size: 40px;
+	transition: all 0.2s ease-in;
+}
+.xfr:hover{
+	font-size: 40px;
+	transition: all 0.2s ease-in;
+}
+.jz:hover{
+	font-size: 40px;
+	transition: all 0.2s ease-in;
+}
+.wfr:hover{
+	font-size: 40px;
+	transition: all 0.2s ease-in;
+}
+.jm2:hover{
+	font-size: 40px;
+	transition: all 0.2s ease-in;
+}
+.lrh:hover{
+	font-size: 40px;
+	transition: all 0.5s ease-in;
+}
+a.jdh:hover{
+	color: goldenrod;
+	transform: uppercase;	
+	font-size: 50px;
+	transition: all 0.2s ease-in;
+	font-display: block；
+}
+a.jm:hover{
+	color: goldenrod;
+	transform: uppercase;	
+	font-size: 50px;
+	transition: all 0.2s ease-in;
+	font-display: block；
+}
+a.jds:hover{
+	color: goldenrod;
+	transform: uppercase;	
+	font-size: 50px;
+	transition: all 0.2s ease-in;
+	font-display: block；
+}
+a.jdh,a.jm,a.jds{
+	transition: all 0.5s ease-out;
 	
 }
 .main:hover {
@@ -26,6 +92,7 @@ body {
 	transition: all 1s ease-out;
 	font-display: block；
 }
+
 .main{
 	color: antiquewhite;
 	transition: all 0.5s ease-out;
