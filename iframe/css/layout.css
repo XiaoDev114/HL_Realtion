@@ -1,0 +1,42 @@
+.jds{
+	left: auto;
+	float: left;
+}
+.xd{
+	float: right;
+}
+
+div.sp{
+	margin: 0 auto  ;
+	/*div层居中方法*/
+	float: inherit;
+	width: 1400px;
+}
+div.F1{
+	margin: 0 auto;
+	width: 1400px;
+}
+div.tr1{
+	width: 1400px;
+	left: 40px;
+	
+}
+.ima{
+	right: 60px;
+	width: 70%;
+	height: 70%;
+}
+
+
+.p{
+	transition:0.5s ease-in;
+}
+
+.jm:hover{
+	font-size: 98pt;
+	color:indianred;
+	transition:  0.5s  cubic-bezier(.94,-0.25,.32,1.31);
+}
+.jdh{
+	float: right;
+}
