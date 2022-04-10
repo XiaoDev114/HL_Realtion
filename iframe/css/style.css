@@ -3,6 +3,7 @@ span.sp{
 }
 span.f1{
 	font-size:  38.4pt;
+	transition: 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55) 
 }
 .p{
 	font-size: 64pt;
