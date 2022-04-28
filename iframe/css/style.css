@@ -1,6 +1,12 @@
-.p{
-	font: normal;
-	transition: all in 0.5s ease-in;
-	font-size: 100%;
-	background: #4FAFC1
+
+.f1{
+	color: darkgoldenrod;
+}
+#ge{
+	color: green;
+}
+
+
+.f{
+	font-size: 80%;
 }

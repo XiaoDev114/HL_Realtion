@@ -1,5 +1,15 @@
 .p:hover{
-	background: #80C92C;
-	font-size: 150%;
-	transition: 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55) 
+	color: aqua;
+	background: #7B3B10;
+	border: 1px solid #4FAFC1;
+  	border-radius: 20px 35px 24px 6px;
+	font-size: 110%;
+	transition: 1s cubic-bezier(.3,.89,.32,.97);
+}
+.p{
+	border: 1px solid #7B3B10;
+	border-radius: 15px 30px 18px 16px;
+	color: chocolate;
+	transition:  0.8s ease-out;
+	background: #4FAFC1
 }
